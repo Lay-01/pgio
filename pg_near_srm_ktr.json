@@ -1,0 +1,980 @@
+{
+  "meta": {
+    "query": "PG accommodations near SRM Institute of Science & Technology, Kattankulathur (SRM KTR)",
+    "reference_point": {
+      "label": "SRM KTR main gate (approx)",
+      "latitude": 12.8231,
+      "longitude": 80.0444
+    },
+    "radius_km": "up to ~20",
+    "areas_covered": [
+      "Potheri",
+      "Kattankulathur",
+      "Guduvanchery",
+      "Maraimalai Nagar",
+      "Urapakkam",
+      "Tambaram",
+      "Vandalur",
+      "Chengalpattu"
+    ],
+    "total_entries": 106,
+    "source": "Google Business listings (Google Maps/Places) via live search, cross-checked Sep 2026",
+    "notes": "Phone numbers and coordinates are as published on each business's Google Business Profile. Some smaller/newer PGs have not listed a phone number publicly (shown as null) -- do not fabricate one. Gender field is inferred from listing name/type; verify directly before booking. Always confirm current availability and rates by phone before visiting."
+  },
+  "listings": [
+    {
+      "name": "Ladies Hostel (SRM Campus)",
+      "phone": null,
+      "location": "SRM University-KTR Campus, Dr Radhakrishnan Rd, Potheri, SRM Nagar, Kattankulathur, Tamil Nadu 603203",
+      "latitude": 12.8213724,
+      "longitude": 80.0444982,
+      "gender": "Female",
+      "distance_from_srm_ktr_km": 0.19
+    },
+    {
+      "name": "M Block (Girls Hostel - SRM Campus)",
+      "phone": "+91 80560 16627",
+      "location": "SRM University-KTR Campus, Potheri, SRM Nagar, Kattankulathur, Tamil Nadu 603203",
+      "latitude": 12.8207149,
+      "longitude": 80.0459576,
+      "gender": "Female",
+      "distance_from_srm_ktr_km": 0.31
+    },
+    {
+      "name": "The Royal Inn Ladies PG (Maple Nest)",
+      "phone": "+91 90876 91555",
+      "location": "Plot 111, Anushya St, near TRS Back Gate, Potheri, SRM Nagar, Thailavaram, Kattankulathur, Tamil Nadu 603203",
+      "latitude": 12.8261109,
+      "longitude": 80.0446949,
+      "gender": "Female",
+      "distance_from_srm_ktr_km": 0.34
+    },
+    {
+      "name": "A.S.R PG For Ladies",
+      "phone": null,
+      "location": "Backside of SRM University, near TRS, Potheri, SRM Nagar, Thailavaram, Kattankulathur, Tamil Nadu 603203",
+      "latitude": 12.8261615,
+      "longitude": 80.044736,
+      "gender": "Female",
+      "distance_from_srm_ktr_km": 0.34
+    },
+    {
+      "name": "Srinivasa Paying Guest for Gents",
+      "phone": null,
+      "location": "Potheri, Samundeswari Nagar, Thailavaram, Kattankulathur, Tamil Nadu 603203",
+      "latitude": 12.8261875,
+      "longitude": 80.0447216,
+      "gender": "Male",
+      "distance_from_srm_ktr_km": 0.35
+    },
+    {
+      "name": "SMS Gents Hostel",
+      "phone": "+91 89190 25038",
+      "location": "22, Bajanai Kovil St, Potheri, SRM Nagar, near SRM back gate, Kattankulathur, Tamil Nadu 603203",
+      "latitude": 12.8202873,
+      "longitude": 80.0429493,
+      "gender": "Male",
+      "distance_from_srm_ktr_km": 0.35
+    },
+    {
+      "name": "The Royal Inn Ladies PG",
+      "phone": "+91 90875 11555",
+      "location": "11, Perumal Koil St, Potheri, SRM Nagar, Kattankulathur, Tamil Nadu 603203",
+      "latitude": 12.8211319,
+      "longitude": 80.0419318,
+      "gender": "Female",
+      "distance_from_srm_ktr_km": 0.35
+    },
+    {
+      "name": "Blue Moon PG for Ladies (Bajanai Kovil St)",
+      "phone": "+91 99620 04487",
+      "location": "20/5, Bajanai Kovil St, near SRM gate, Potheri, Kattankulathur, Tamil Nadu 603203",
+      "latitude": 12.8202401,
+      "longitude": 80.0426033,
+      "gender": "Female",
+      "distance_from_srm_ktr_km": 0.37
+    },
+    {
+      "name": "BRUNDAVAN GENTS PG",
+      "phone": "+91 75500 04426",
+      "location": "No 134, Beside Smiles Inn, Thailavaram, Potheri, SRM Nagar, Kattankulathur, Tamil Nadu 603203",
+      "latitude": 12.826524,
+      "longitude": 80.0438851,
+      "gender": "Male",
+      "distance_from_srm_ktr_km": 0.38
+    },
+    {
+      "name": "SRM New Gents Medical Hostel UG and PG",
+      "phone": null,
+      "location": "SRM FSH College, Pillayar Koil St, Potheri, SRM Nagar, Kattankulathur, Tamil Nadu 603203",
+      "latitude": 12.8257837,
+      "longitude": 80.0466683,
+      "gender": "Male",
+      "distance_from_srm_ktr_km": 0.39
+    },
+    {
+      "name": "Venkat Ramana PG Hostel for Gents",
+      "phone": "+91 92468 07747",
+      "location": "No 96, near SRM Low College Gate, near Mini Matrix, Narasimhan Nagar, Potheri, Kattankulathur, Tamil Nadu 603203",
+      "latitude": 12.826508,
+      "longitude": 80.0454647,
+      "gender": "Male",
+      "distance_from_srm_ktr_km": 0.4
+    },
+    {
+      "name": "Oasis Men's Hostel",
+      "phone": "+91 80894 97318",
+      "location": "Potheri, SRM Nagar, Kattankulathur, Tamil Nadu 603203",
+      "latitude": 12.8265251,
+      "longitude": 80.045448,
+      "gender": "Male",
+      "distance_from_srm_ktr_km": 0.4
+    },
+    {
+      "name": "The Royal Inn Gents PG",
+      "phone": "+91 90874 11555",
+      "location": "Plot 137, Narasimman Nagar, opp TRS Hostel, Thailavaram, Potheri, Kattankulathur, Tamil Nadu 603203",
+      "latitude": 12.826854,
+      "longitude": 80.0439147,
+      "gender": "Male",
+      "distance_from_srm_ktr_km": 0.42
+    },
+    {
+      "name": "SRM-TRS Men's Hostel",
+      "phone": "+91 89398 84979",
+      "location": "Potheri, SRM Nagar, Kattankulathur, Tamil Nadu 603203",
+      "latitude": 12.8271224,
+      "longitude": 80.0441746,
+      "gender": "Male",
+      "distance_from_srm_ktr_km": 0.45
+    },
+    {
+      "name": "Sabari Residency",
+      "phone": null,
+      "location": "89 Srinivasa St, Narasiman Nagar, Potheri, SRM Nagar, Kattankulathur, Tamil Nadu 603203",
+      "latitude": 12.8269189,
+      "longitude": 80.046359,
+      "gender": "Unspecified",
+      "distance_from_srm_ktr_km": 0.47
+    },
+    {
+      "name": "Haarvika PG for Ladies",
+      "phone": "+91 89398 76172",
+      "location": "67, Pillayar Kovil Cross St, Potheri Market, Potheri, Kattankulathur, Tamil Nadu 603203",
+      "latitude": 12.82026,
+      "longitude": 80.0407755,
+      "gender": "Female",
+      "distance_from_srm_ktr_km": 0.5
+    },
+    {
+      "name": "SRM Dr APJ Medical Boys Hostel UG PG",
+      "phone": null,
+      "location": "Potheri, SRM Nagar, Kattankulathur, Tamil Nadu 603203",
+      "latitude": 12.8241599,
+      "longitude": 80.0490656,
+      "gender": "Male",
+      "distance_from_srm_ktr_km": 0.52
+    },
+    {
+      "name": "SVS Mens Hostel",
+      "phone": "+91 82478 54346",
+      "location": "Guruswamy St, Potheri, Narsima Nagar, Kattankulathur, Tamil Nadu 603203",
+      "latitude": 12.8278363,
+      "longitude": 80.0447942,
+      "gender": "Male",
+      "distance_from_srm_ktr_km": 0.53
+    },
+    {
+      "name": "Sri Venkata Vishnu Priya Gents Hostel",
+      "phone": "+91 99622 36999",
+      "location": "Flat 41, Samundeswari Nagar, Potheri, SRM Nagar, Kattankulathur, Tamil Nadu 603203",
+      "latitude": 12.827898,
+      "longitude": 80.043391,
+      "gender": "Male",
+      "distance_from_srm_ktr_km": 0.54
+    },
+    {
+      "name": "Siri Gents PG",
+      "phone": null,
+      "location": "Potheri, SRM Nagar, Kattankulathur, Tamil Nadu 603203",
+      "latitude": 12.8278844,
+      "longitude": 80.0433679,
+      "gender": "Male",
+      "distance_from_srm_ktr_km": 0.54
+    },
+    {
+      "name": "ST PG FOR GENTS",
+      "phone": "+91 97863 40626",
+      "location": "Pillayar Koil St, Potheri, SRM Nagar, Kattankulathur, Tamil Nadu 603203",
+      "latitude": 12.8279828,
+      "longitude": 80.0436006,
+      "gender": "Male",
+      "distance_from_srm_ktr_km": 0.55
+    },
+    {
+      "name": "Medley A/c Pg hostel",
+      "phone": "+91 94457 72222",
+      "location": "Samundeeswari Nagar main road, Thailavaram, Potheri, SRM Nagar, Kattankulathur, Tamil Nadu 603203",
+      "latitude": 12.8279362,
+      "longitude": 80.0435459,
+      "gender": "Unspecified",
+      "distance_from_srm_ktr_km": 0.55
+    },
+    {
+      "name": "Vishaka Ladies PG",
+      "phone": "+91 70107 84956",
+      "location": "60, Pillayar Koil St, Potheri, Kattankulathur, Tamil Nadu 603203",
+      "latitude": 12.8199554,
+      "longitude": 80.0404597,
+      "gender": "Female",
+      "distance_from_srm_ktr_km": 0.55
+    },
+    {
+      "name": "Bluemoon PG For Ladies Hostel",
+      "phone": "+91 99620 45100",
+      "location": "No.3, Ellango Adigal St, near SRM College, Potheri, Kattankulathur, Tamil Nadu 603203",
+      "latitude": 12.8187048,
+      "longitude": 80.0411386,
+      "gender": "Female",
+      "distance_from_srm_ktr_km": 0.6
+    },
+    {
+      "name": "Iffah Guest House",
+      "phone": "+91 98845 57363",
+      "location": "4, Pillayar Koil St, Potheri, NGO Colony, Kattankulathur, Tamil Nadu 603203",
+      "latitude": 12.8191074,
+      "longitude": 80.040654,
+      "gender": "Unspecified",
+      "distance_from_srm_ktr_km": 0.6
+    },
+    {
+      "name": "Srinivasa PG Hostel (JK Residency)",
+      "phone": "+91 74187 72719",
+      "location": "80/81 JK Residency, near SRM University, Potheri, Samundeswari Nagar, Kattankulathur, Tamil Nadu 603203",
+      "latitude": 12.8288651,
+      "longitude": 80.0458389,
+      "gender": "Unspecified",
+      "distance_from_srm_ktr_km": 0.66
+    },
+    {
+      "name": "Maayaas Stay Ladies Hostel",
+      "phone": "+91 95219 00500",
+      "location": "32, Aadhi Parashakti St, near Abode Valley, Potheri, Kattankulathur, Tamil Nadu 603203",
+      "latitude": 12.818108,
+      "longitude": 80.0407276,
+      "gender": "Female",
+      "distance_from_srm_ktr_km": 0.68
+    },
+    {
+      "name": "ASR Deluxe PG for Ladies",
+      "phone": null,
+      "location": "Narasihman Nagar, Pillayar Koil St, SRM University, SRM Nagar, Kattankulathur, Tamil Nadu 603203",
+      "latitude": 12.8194377,
+      "longitude": 80.0392599,
+      "gender": "Female",
+      "distance_from_srm_ktr_km": 0.69
+    },
+    {
+      "name": "Arunachala PG",
+      "phone": null,
+      "location": "Potheri LK Rd, Potheri, SRM Nagar, Kattankulathur, Tamil Nadu 603203",
+      "latitude": 12.8181198,
+      "longitude": 80.0402384,
+      "gender": "Unspecified",
+      "distance_from_srm_ktr_km": 0.71
+    },
+    {
+      "name": "Phoenix Women's PG",
+      "phone": "+91 93609 64402",
+      "location": "Kambar St, Potheri, Kattankulathur, Tamil Nadu 603203",
+      "latitude": 12.8190129,
+      "longitude": 80.0392266,
+      "gender": "Female",
+      "distance_from_srm_ktr_km": 0.72
+    },
+    {
+      "name": "Sai Balaji PG For Ladies (Kambar St)",
+      "phone": "+91 96434 54261",
+      "location": "63, Kambar St, Potheri, Kattankulathur, Tamil Nadu 603203",
+      "latitude": 12.8190142,
+      "longitude": 80.0392001,
+      "gender": "Female",
+      "distance_from_srm_ktr_km": 0.72
+    },
+    {
+      "name": "Happy Gents Hostel & PG",
+      "phone": "+91 99625 61555",
+      "location": "No.48, Aathi Parasakthi Nagar, Potheri, Thailavaram, Chennai, Tamil Nadu 603203",
+      "latitude": 12.8291267,
+      "longitude": 80.0469635,
+      "gender": "Male",
+      "distance_from_srm_ktr_km": 0.73
+    },
+    {
+      "name": "Sai Balaji PG for Ladies (Pillayar Koil St)",
+      "phone": "+91 89398 76172",
+      "location": "Pillayar Koil St, SRM University, Kattankulathur, Tamil Nadu 603203",
+      "latitude": 12.8195161,
+      "longitude": 80.0388124,
+      "gender": "Female",
+      "distance_from_srm_ktr_km": 0.73
+    },
+    {
+      "name": "Venkat Ramana PG Hostel for Ladies",
+      "phone": "+91 90308 30555",
+      "location": "No.12/13, SPM Complex, Anna St, Pillayar Koil St, near SRM College, Potheri, Kattankulathur, Tamil Nadu 603203",
+      "latitude": 12.8185888,
+      "longitude": 80.0393465,
+      "gender": "Female",
+      "distance_from_srm_ktr_km": 0.74
+    },
+    {
+      "name": "Lakshmi Bhavanam PG for Gents",
+      "phone": "+91 98405 24692",
+      "location": "2, Selva Vinayagar Koil St, Potheri, Bhuvaneswari Amman Nagar, Thailavaram, Tamil Nadu 603203",
+      "latitude": 12.8301925,
+      "longitude": 80.0420393,
+      "gender": "Male",
+      "distance_from_srm_ktr_km": 0.83
+    },
+    {
+      "name": "Vinayaga Ladies PG",
+      "phone": null,
+      "location": "Thiruvalluvar St, Potheri, Kattankulathur, Tamil Nadu 603203",
+      "latitude": 12.8183674,
+      "longitude": 80.0376189,
+      "gender": "Female",
+      "distance_from_srm_ktr_km": 0.9
+    },
+    {
+      "name": "Stanza Living Harrogate House (Abode Valley)",
+      "phone": "+91 80 4600 7476",
+      "location": "Abode Valley, 54, Kakkan St, Potheri, Kattankulathur, Tamil Nadu 603203",
+      "latitude": 12.816314,
+      "longitude": 80.0398698,
+      "gender": "Female",
+      "distance_from_srm_ktr_km": 0.9
+    },
+    {
+      "name": "Myroomie - Daisy",
+      "phone": "+91 73386 86161",
+      "location": "SRM University, Kattankulathur, Maraimalai Nagar, Tamil Nadu 603202",
+      "latitude": 12.8166875,
+      "longitude": 80.0501875,
+      "gender": "Unspecified",
+      "distance_from_srm_ktr_km": 0.95
+    },
+    {
+      "name": "Unicorn Boys PG",
+      "phone": null,
+      "location": "near PNN Avenue, Vallancheri, Guduvanchery, Maraimalai Nagar, Tamil Nadu 603202",
+      "latitude": 12.8164695,
+      "longitude": 80.0500868,
+      "gender": "Male",
+      "distance_from_srm_ktr_km": 0.96
+    },
+    {
+      "name": "Royal Inn Ladies PG (Dr Ambedkar St)",
+      "phone": null,
+      "location": "Dr Ambedkar St, Potheri, Kattankulathur, Tamil Nadu 603203",
+      "latitude": 12.8166771,
+      "longitude": 80.0378975,
+      "gender": "Female",
+      "distance_from_srm_ktr_km": 1.0
+    },
+    {
+      "name": "Nisha's Girls PG",
+      "phone": null,
+      "location": "Vallanchery Main Rd, Potheri, Maraimalai Nagar, Tamil Nadu 603203",
+      "latitude": 12.8245705,
+      "longitude": 80.0554627,
+      "gender": "Female",
+      "distance_from_srm_ktr_km": 1.21
+    },
+    {
+      "name": "Nila Ananthi Ladies Hostel",
+      "phone": "+91 82482 71696",
+      "location": "Potheri, near railway station, Kattankulathur, Tamil Nadu 603203",
+      "latitude": 12.8190625,
+      "longitude": 80.0319375,
+      "gender": "Female",
+      "distance_from_srm_ktr_km": 1.42
+    },
+    {
+      "name": "Goodluck PG for Men",
+      "phone": "+91 98845 85315",
+      "location": "88A, Vivekananthar Nagar, Potheri, Kattankulathur, Tamil Nadu 603203",
+      "latitude": 12.8199175,
+      "longitude": 80.0311042,
+      "gender": "Male",
+      "distance_from_srm_ktr_km": 1.48
+    },
+    {
+      "name": "JJ Women's Hostel",
+      "phone": null,
+      "location": "Plot No.02, Meenachi Nagar, GST Rd, Guduvanchery, Tamil Nadu 603202",
+      "latitude": 12.8381623,
+      "longitude": 80.0533781,
+      "gender": "Female",
+      "distance_from_srm_ktr_km": 1.94
+    },
+    {
+      "name": "Tara's Stay Inn Ladies PG",
+      "phone": "+91 88078 85887",
+      "location": "39, Sadhasivam Rd, near Bus Stop, Kattankulathur, Tamil Nadu 603203",
+      "latitude": 12.8094003,
+      "longitude": 80.0304252,
+      "gender": "Female",
+      "distance_from_srm_ktr_km": 2.15
+    },
+    {
+      "name": "SSV Hostel",
+      "phone": "+91 99402 11336",
+      "location": "No.4A & 4B, RMR Ave, near Sivan Kovil, Gnanmbai St, Kattankulathur, Tamil Nadu 603203",
+      "latitude": 12.8117705,
+      "longitude": 80.0272573,
+      "gender": "Unspecified",
+      "distance_from_srm_ktr_km": 2.25
+    },
+    {
+      "name": "Pravas Ladies Hostel",
+      "phone": null,
+      "location": "9 Balaji St, GST Rd, Srinivasapuram, Guduvanchery, Tamil Nadu 603202",
+      "latitude": 12.8401966,
+      "longitude": 80.0572924,
+      "gender": "Female",
+      "distance_from_srm_ktr_km": 2.36
+    },
+    {
+      "name": "Imai Women's Hostel (Guduvanchery)",
+      "phone": null,
+      "location": "Plot 9, Balaji St, Srinivasapuram, Guduvanchery, Tamil Nadu 603202",
+      "latitude": 12.8400589,
+      "longitude": 80.0576793,
+      "gender": "Female",
+      "distance_from_srm_ktr_km": 2.37
+    },
+    {
+      "name": "Jayanthi Women's Hostel/PG",
+      "phone": "+91 96774 90297",
+      "location": "Old No.30, New No.260/3, Swaminatha Naicker St, Kuppusamy, Guduvanchery, Tamil Nadu 603202",
+      "latitude": 12.8443485,
+      "longitude": 80.0583984,
+      "gender": "Female",
+      "distance_from_srm_ktr_km": 2.81
+    },
+    {
+      "name": "Alita Ladies Hostel",
+      "phone": "+91 97103 95566",
+      "location": "No.82A, NSK St, Nellikuppam Rd, Kamarajapuram, Guduvanchery, Tamil Nadu 603202",
+      "latitude": 12.8420747,
+      "longitude": 80.0616032,
+      "gender": "Female",
+      "distance_from_srm_ktr_km": 2.82
+    },
+    {
+      "name": "KK Mansion",
+      "phone": "+91 99626 49443",
+      "location": "28, 14th Cross St, Rail Nagar, Maraimalai Nagar, Tamil Nadu 603203",
+      "latitude": 12.7927965,
+      "longitude": 80.0376659,
+      "gender": "Unspecified",
+      "distance_from_srm_ktr_km": 3.45
+    },
+    {
+      "name": "Grand Ladies Hostel",
+      "phone": "+91 86086 08852",
+      "location": "Maraimalai Nagar, Tamil Nadu 603209",
+      "latitude": 12.7990706,
+      "longitude": 80.0239262,
+      "gender": "Female",
+      "distance_from_srm_ktr_km": 3.47
+    },
+    {
+      "name": "Sri Subiksha Ladies Hostel",
+      "phone": "+91 88707 31441",
+      "location": "HIG, 14/1, Vallal MGR Salai, NH-1, Maraimalai Nagar, Tamil Nadu 603209",
+      "latitude": 12.7992459,
+      "longitude": 80.0235537,
+      "gender": "Female",
+      "distance_from_srm_ktr_km": 3.48
+    },
+    {
+      "name": "PG Mens",
+      "phone": "+91 98846 73953",
+      "location": "Vallal Naliyakodan St, Maraimalai Nagar, Tamil Nadu 603209",
+      "latitude": 12.7968043,
+      "longitude": 80.0227548,
+      "gender": "Male",
+      "distance_from_srm_ktr_km": 3.75
+    },
+    {
+      "name": "TRR PG Hostel",
+      "phone": "+91 72000 60666",
+      "location": "TRR Complex, HIG-71, Anna Salai Rd, NH-1, Maraimalai Nagar, Tamil Nadu 603209",
+      "latitude": 12.7939166,
+      "longitude": 80.0240398,
+      "gender": "Male",
+      "distance_from_srm_ktr_km": 3.92
+    },
+    {
+      "name": "R.K.S Ladies Hostel",
+      "phone": "+91 73388 75089",
+      "location": "6 Ratha Nagar, Nandhivaram, Guduvanchery, Tamil Nadu 603202",
+      "latitude": 12.8524792,
+      "longitude": 80.0654918,
+      "gender": "Female",
+      "distance_from_srm_ktr_km": 3.99
+    },
+    {
+      "name": "G6 PG Hostel",
+      "phone": "+91 73392 69513",
+      "location": "7, Sekkizhar St, Maraimalai Nagar, Tamil Nadu 603209",
+      "latitude": 12.7909875,
+      "longitude": 80.0234656,
+      "gender": "Male",
+      "distance_from_srm_ktr_km": 4.23
+    },
+    {
+      "name": "Sky Men's Hostel/PG",
+      "phone": "+91 99445 09189",
+      "location": "2nd St, Mahalakshmi Nagar Ext 7, Guduvanchery, Tamil Nadu 603202",
+      "latitude": 12.8525697,
+      "longitude": 80.0696849,
+      "gender": "Male",
+      "distance_from_srm_ktr_km": 4.27
+    },
+    {
+      "name": "Stanza Living Fernley House",
+      "phone": "+91 80 4762 2222",
+      "location": "5, Chennai-Theni Hwy, Sri Balaji Nagar, Urapakkam, Tamil Nadu 603202",
+      "latitude": 12.8539438,
+      "longitude": 80.0680097,
+      "gender": "Unspecified",
+      "distance_from_srm_ktr_km": 4.28
+    },
+    {
+      "name": "Zolo Milano Co-Living",
+      "phone": "+91 88801 08010",
+      "location": "Orchard, GST Rd, Urapakkam, Tamil Nadu 603202",
+      "latitude": 12.8555272,
+      "longitude": 80.0697179,
+      "gender": "Unspecified",
+      "distance_from_srm_ktr_km": 4.53
+    },
+    {
+      "name": "Friends Hub PG",
+      "phone": "+91 93457 24301",
+      "location": "V359, Abnirami Nagar, Urapakkam, Tamil Nadu 603210",
+      "latitude": 12.857542,
+      "longitude": 80.0675334,
+      "gender": "Unspecified",
+      "distance_from_srm_ktr_km": 4.58
+    },
+    {
+      "name": "Just4Adams PG/Hostel",
+      "phone": "+91 99622 79720",
+      "location": "104, Vallalar 2nd St, Vaigai Nagar, Urapakkam, Tamil Nadu 603210",
+      "latitude": 12.8577065,
+      "longitude": 80.0675034,
+      "gender": "Male",
+      "distance_from_srm_ktr_km": 4.59
+    },
+    {
+      "name": "Chithra Women's Hostel",
+      "phone": "+91 98402 22464",
+      "location": "Flat 13, Gayatri Nagar 3rd St, Urapakkam, Tamil Nadu 603211",
+      "latitude": 12.861031,
+      "longitude": 80.0672944,
+      "gender": "Female",
+      "distance_from_srm_ktr_km": 4.89
+    },
+    {
+      "name": "Shanvi Women's Hostel",
+      "phone": "+91 98840 33509",
+      "location": "No.3 Venkateswara Avenue, Station Rd, Jagadish Nagar, Urapakkam, Tamil Nadu 603211",
+      "latitude": 12.8614262,
+      "longitude": 80.0676432,
+      "gender": "Female",
+      "distance_from_srm_ktr_km": 4.95
+    },
+    {
+      "name": "Rosewood Heaven PG",
+      "phone": null,
+      "location": "5, Priya Nagar Rd, Urapakkam, Tamil Nadu 603210",
+      "latitude": 12.8623093,
+      "longitude": 80.0701386,
+      "gender": "Unspecified",
+      "distance_from_srm_ktr_km": 5.18
+    },
+    {
+      "name": "Geetha Ladies Hostel",
+      "phone": "+91 87544 00722",
+      "location": "Railway Station, 10, Manonmaniyam St, Urapakkam, Tamil Nadu 603211",
+      "latitude": 12.8641569,
+      "longitude": 80.0692477,
+      "gender": "Female",
+      "distance_from_srm_ktr_km": 5.3
+    },
+    {
+      "name": "Mars Stays - Varsam PG",
+      "phone": null,
+      "location": "23A, F1, Pillayar Kovil St, Urapakkam, Tamil Nadu 603210",
+      "latitude": 12.8629852,
+      "longitude": 80.0728853,
+      "gender": "Unspecified",
+      "distance_from_srm_ktr_km": 5.4
+    },
+    {
+      "name": "Friends Ladies Hostel",
+      "phone": "+91 78453 45345",
+      "location": "GST Rd, 46/9, Pillayar Koil St, Urapakkam, Tamil Nadu 603210",
+      "latitude": 12.862832,
+      "longitude": 80.0732256,
+      "gender": "Female",
+      "distance_from_srm_ktr_km": 5.41
+    },
+    {
+      "name": "Sai Bala Women's Hostel",
+      "phone": "+91 90873 27241",
+      "location": "512/B, Station Rd, Kelambakkam-Vandalur Rd, Urapakkam, Tamil Nadu 603211",
+      "latitude": 12.8672742,
+      "longitude": 80.0690243,
+      "gender": "Female",
+      "distance_from_srm_ktr_km": 5.59
+    },
+    {
+      "name": "VSR Women's Park",
+      "phone": "+91 98408 67687",
+      "location": "145, GST Rd, Senthil Nagar, Urapakkam, Tamil Nadu 603210",
+      "latitude": 12.8640252,
+      "longitude": 80.0745623,
+      "gender": "Female",
+      "distance_from_srm_ktr_km": 5.6
+    },
+    {
+      "name": "Sree Ramajayam Mens PG",
+      "phone": "+91 74490 99999",
+      "location": "Eswaran Koil 2nd St, Kilambakkam, Urapakkam, Tamil Nadu 603210",
+      "latitude": 12.8630086,
+      "longitude": 80.0760201,
+      "gender": "Male",
+      "distance_from_srm_ktr_km": 5.61
+    },
+    {
+      "name": "GoldenKite Ladies Hostel",
+      "phone": "+91 73051 29184",
+      "location": "Door No.6, 7th St, Revathipuram, Urapakkam, Tamil Nadu 603210",
+      "latitude": 12.8630495,
+      "longitude": 80.0789478,
+      "gender": "Female",
+      "distance_from_srm_ktr_km": 5.81
+    },
+    {
+      "name": "Olive Ladies Hostel",
+      "phone": "+91 74026 76767",
+      "location": "No.3, Railway Gate Rd, Kilambakkam, Urapakkam, Tamil Nadu 603211",
+      "latitude": 12.8702316,
+      "longitude": 80.0725035,
+      "gender": "Female",
+      "distance_from_srm_ktr_km": 6.06
+    },
+    {
+      "name": "Happy Nest Men's PG",
+      "phone": "+91 72002 05444",
+      "location": "Railway Gate Rd, Kilambakkam, near Urapakkam Bridge, Tamil Nadu 603210",
+      "latitude": 12.8698077,
+      "longitude": 80.0739815,
+      "gender": "Male",
+      "distance_from_srm_ktr_km": 6.1
+    },
+    {
+      "name": "YAS Men's PG",
+      "phone": "+91 90255 57050",
+      "location": "GST Rd, opp Vandalur Zoo, Vandalur, Tamil Nadu 603210",
+      "latitude": 12.8799002,
+      "longitude": 80.0794032,
+      "gender": "Male",
+      "distance_from_srm_ktr_km": 7.37
+    },
+    {
+      "name": "Imai Women's Hostel (Vandalur)",
+      "phone": "+91 73059 16599",
+      "location": "4/157, GST Rd, Otteri, Vandalur, Tamil Nadu 600048",
+      "latitude": 12.8843254,
+      "longitude": 80.0815029,
+      "gender": "Female",
+      "distance_from_srm_ktr_km": 7.91
+    },
+    {
+      "name": "Zolo Expresso",
+      "phone": "+91 88801 08010",
+      "location": "73/30, Maraimalai Nagar, Tamil Nadu 603204",
+      "latitude": 12.7586741,
+      "longitude": 80.0127214,
+      "gender": "Unspecified",
+      "distance_from_srm_ktr_km": 7.94
+    },
+    {
+      "name": "Sri Ram Ladies PG (Vandalur)",
+      "phone": null,
+      "location": "1/17a, Bajanai Koil St, Ganapathy Nagar, Balaji Nagar, Vandalur, Tamil Nadu 600048",
+      "latitude": 12.8939531,
+      "longitude": 80.0811502,
+      "gender": "Female",
+      "distance_from_srm_ktr_km": 8.83
+    },
+    {
+      "name": "Krishna PG for Men",
+      "phone": "+91 88382 96334",
+      "location": "GST Rd, near Eraniyamman Koil, Otteri Extension, Vandalur, Tamil Nadu 600048",
+      "latitude": 12.8961933,
+      "longitude": 80.089897,
+      "gender": "Male",
+      "distance_from_srm_ktr_km": 9.51
+    },
+    {
+      "name": "Avantika Ladies Hostel",
+      "phone": "+91 99401 66652",
+      "location": "1/587, GST Rd, near Iranniamman Temple, Vandalur, Tamil Nadu 600048",
+      "latitude": 12.8962605,
+      "longitude": 80.0898235,
+      "gender": "Female",
+      "distance_from_srm_ktr_km": 9.51
+    },
+    {
+      "name": "Mahindra Green PG",
+      "phone": "+91 86086 22555",
+      "location": "1st Avenue, VKV Nagar, Mahindra World City, Veerapuram, Chengalpattu, Tamil Nadu 603004",
+      "latitude": 12.7423079,
+      "longitude": 80.0027009,
+      "gender": "Unspecified",
+      "distance_from_srm_ktr_km": 10.06
+    },
+    {
+      "name": "Sai Atcharaa Hostel",
+      "phone": "+91 72999 83333",
+      "location": "6/6, Indira Gandhi St, Balaji Nagar, New Perungalathur, Tamil Nadu 600063",
+      "latitude": 12.903077,
+      "longitude": 80.0917606,
+      "gender": "Unspecified",
+      "distance_from_srm_ktr_km": 10.27
+    },
+    {
+      "name": "Mary Gents PG & Hostel",
+      "phone": "+91 81223 34411",
+      "location": "16/2, Jothi Nagar 4th St, Mudichur Rd, Vettri Nagar, West Tambaram, Tamil Nadu 600045",
+      "latitude": 12.9237539,
+      "longitude": 80.093155,
+      "gender": "Male",
+      "distance_from_srm_ktr_km": 12.38
+    },
+    {
+      "name": "CK Hive Girls PG",
+      "phone": "+91 90948 58303",
+      "location": "18, Bajanai Koil St, Ganapathipuram, East Tambaram, Tamil Nadu 600059",
+      "latitude": 12.921058,
+      "longitude": 80.1149409,
+      "gender": "Female",
+      "distance_from_srm_ktr_km": 13.31
+    },
+    {
+      "name": "CK Mayura Men's PG",
+      "phone": "+91 93429 68100",
+      "location": "19, Bajanai Koil St, Ganapathipuram, East Tambaram, Tamil Nadu 600059",
+      "latitude": 12.9211635,
+      "longitude": 80.1150733,
+      "gender": "Male",
+      "distance_from_srm_ktr_km": 13.33
+    },
+    {
+      "name": "YRN Luxury Women's PG and Hostel",
+      "phone": "+91 63828 57339",
+      "location": "10/28, Loganathan St, West Tambaram, Tamil Nadu 600045",
+      "latitude": 12.9258052,
+      "longitude": 80.1108969,
+      "gender": "Female",
+      "distance_from_srm_ktr_km": 13.5
+    },
+    {
+      "name": "PNS Women's PG & Ladies Hostel",
+      "phone": "+91 99944 60651",
+      "location": "No.34, Thirupur Kumaran St, near Vidya Theatre, West Tambaram, Tamil Nadu 600045",
+      "latitude": 12.925103,
+      "longitude": 80.113502,
+      "gender": "Female",
+      "distance_from_srm_ktr_km": 13.59
+    },
+    {
+      "name": "Sri Sai GRN Men's PG & Hostel",
+      "phone": "+91 81228 24076",
+      "location": "No.19, Ramakrishna St, opp Bata showroom, West Tambaram, Tamil Nadu 600045",
+      "latitude": 12.9273041,
+      "longitude": 80.1153095,
+      "gender": "Male",
+      "distance_from_srm_ktr_km": 13.9
+    },
+    {
+      "name": "Lucky Boys Hostel & PG",
+      "phone": "+91 63804 28169",
+      "location": "35, Rajaji Rd, West Tambaram, Tamil Nadu 600045",
+      "latitude": 12.9284064,
+      "longitude": 80.115699,
+      "gender": "Male",
+      "distance_from_srm_ktr_km": 14.03
+    },
+    {
+      "name": "Malcolm Girls Hostel",
+      "phone": "+91 98416 29592",
+      "location": "7, Air Force Station Rd, Bhagavathy Nagar, East Tambaram, Tamil Nadu 600059",
+      "latitude": 12.9200105,
+      "longitude": 80.1273634,
+      "gender": "Female",
+      "distance_from_srm_ktr_km": 14.04
+    },
+    {
+      "name": "Agam Girls Hostel Tambaram",
+      "phone": "+91 81100 90099",
+      "location": "3, near MCC Backgate, Professors Colony, East Tambaram, Tamil Nadu 600059",
+      "latitude": 12.9196301,
+      "longitude": 80.1289146,
+      "gender": "Female",
+      "distance_from_srm_ktr_km": 14.11
+    },
+    {
+      "name": "Riya Hostel",
+      "phone": "+91 88388 60269",
+      "location": "Anna St, near MCC, Anandapuram, East Tambaram, Tamil Nadu 600059",
+      "latitude": 12.9190487,
+      "longitude": 80.1308736,
+      "gender": "Female",
+      "distance_from_srm_ktr_km": 14.2
+    },
+    {
+      "name": "Kani Women's PG Kadaperi",
+      "phone": null,
+      "location": "32/4, Bhuvaneshwari St, R.V. Garden, Kadaperi, Tambaram, Tamil Nadu 600047",
+      "latitude": 12.9340568,
+      "longitude": 80.122276,
+      "gender": "Female",
+      "distance_from_srm_ktr_km": 14.95
+    },
+    {
+      "name": "Shree Sai Vishnu PG for Men",
+      "phone": "+91 98404 35000",
+      "location": "New No.21, Albert Ponnusamy St, Gandhi Nagar, East Tambaram, Tamil Nadu 600059",
+      "latitude": 12.9305321,
+      "longitude": 80.1277765,
+      "gender": "Male",
+      "distance_from_srm_ktr_km": 14.98
+    },
+    {
+      "name": "Lucky Gents PG",
+      "phone": null,
+      "location": "29, Renga St, Kadapperi, West Tambaram, Tamil Nadu 600045",
+      "latitude": 12.9346535,
+      "longitude": 80.1248982,
+      "gender": "Male",
+      "distance_from_srm_ktr_km": 15.17
+    },
+    {
+      "name": "Tamilan PG",
+      "phone": "+91 73387 15054",
+      "location": "No 16, Lakeview St, Vinayakarpuram, East Tambaram, Tamil Nadu 600059",
+      "latitude": 12.9314086,
+      "longitude": 80.1297277,
+      "gender": "Male",
+      "distance_from_srm_ktr_km": 15.19
+    },
+    {
+      "name": "Dolphin Men's PG",
+      "phone": "+91 90435 00701",
+      "location": "47, Jiva St, near GK Hotel, Kamaraj Nagar, Tambaram, Tamil Nadu 600045",
+      "latitude": 12.9372447,
+      "longitude": 80.123026,
+      "gender": "Male",
+      "distance_from_srm_ktr_km": 15.29
+    },
+    {
+      "name": "Ruchita Ladies Paying Guest",
+      "phone": null,
+      "location": "Kannan St, behind Hayanth Biriyani Point, Kadaperi, Tambaram Sanatorium, Tamil Nadu 600045",
+      "latitude": 12.936135,
+      "longitude": 80.1246966,
+      "gender": "Female",
+      "distance_from_srm_ktr_km": 15.29
+    },
+    {
+      "name": "YRN Ladies PG Hostel (Selaiyur)",
+      "phone": "+91 90927 81783",
+      "location": "92/91A, Abirami St, Rajeshwari Nagar, Camp Rd, Selaiyur, Tambaram, Tamil Nadu 600073",
+      "latitude": 12.9236701,
+      "longitude": 80.1414369,
+      "gender": "Female",
+      "distance_from_srm_ktr_km": 15.35
+    },
+    {
+      "name": "Rolexx Men's PG & Hostel",
+      "phone": "+91 80988 84848",
+      "location": "No.50&51, Vinayakar Kovil St, Sundaram Colony, Tambaram Sanatorium, Tamil Nadu 600047",
+      "latitude": 12.9386413,
+      "longitude": 80.1305482,
+      "gender": "Male",
+      "distance_from_srm_ktr_km": 15.88
+    },
+    {
+      "name": "Sriram Hostel PG",
+      "phone": "+91 99945 98994",
+      "location": "49, Writer Sabapathy St, Natham, Chengalpattu, Tamil Nadu 603002",
+      "latitude": 12.6969254,
+      "longitude": 79.9703877,
+      "gender": "Unspecified",
+      "distance_from_srm_ktr_km": 16.16
+    },
+    {
+      "name": "Rolex Women's Hostel",
+      "phone": "+91 80989 94848",
+      "location": "No.4, Evalappan St, Apparao Colony, Tambaram Sanatorium, Tamil Nadu 600047",
+      "latitude": 12.9415267,
+      "longitude": 80.1328632,
+      "gender": "Female",
+      "distance_from_srm_ktr_km": 16.29
+    },
+    {
+      "name": "Varnam Annai Ladies PG Hostel",
+      "phone": "+91 70928 82017",
+      "location": "No 111, MS Cottage, GST Rd, Anna Nagar, Chengalpattu, Tamil Nadu 603001",
+      "latitude": 12.6876233,
+      "longitude": 79.9832525,
+      "gender": "Female",
+      "distance_from_srm_ktr_km": 16.46
+    },
+    {
+      "name": "Abhi's Home",
+      "phone": "+91 80729 33282",
+      "location": "13/1 Ramakrishna Nagar, Melamaiyur, Alapakkam, Chengalpattu, Tamil Nadu 603001",
+      "latitude": 12.685695,
+      "longitude": 79.985135,
+      "gender": "Unspecified",
+      "distance_from_srm_ktr_km": 16.58
+    },
+    {
+      "name": "J.P.R Men's PG",
+      "phone": "+91 86670 18426",
+      "location": "11, 5th St, Mummurti Nagar, Chromepet, Tambaram, Tamil Nadu 600044",
+      "latitude": 12.9458971,
+      "longitude": 80.132802,
+      "gender": "Male",
+      "distance_from_srm_ktr_km": 16.68
+    },
+    {
+      "name": "Sai Sree Women's PG Hostel",
+      "phone": "+91 86106 21316",
+      "location": "Bus Stand, PL-1, Pillaiyar Kovil St, near Rattinakinaru, Chengalpattu, Tamil Nadu 603001",
+      "latitude": 12.6845514,
+      "longitude": 79.9826327,
+      "gender": "Female",
+      "distance_from_srm_ktr_km": 16.8
+    }
+  ]
+}
