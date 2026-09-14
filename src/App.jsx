@@ -319,13 +319,13 @@ export default function App() {
   const [searchTerm, setSearchTerm] = useState('')
   const [selectedArea, setSelectedArea] = useState('All')
 
-  const [sheetOpen, setSheetOpen] = useState(false)
+  const [mobileView, setMobileView] = useState('map') // 'map' | 'list'
   const [exporting, setExporting] = useState(false)
 
-  /* Reset mobile sheet on resize to desktop */
+  /* Reset mobile view on resize to desktop */
   useEffect(() => {
     const sync = () => {
-      if (window.innerWidth > 980) setSheetOpen(false)
+      if (window.innerWidth > 980) setMobileView('map')
     }
     window.addEventListener('resize', sync)
     return () => window.removeEventListener('resize', sync)
@@ -475,7 +475,7 @@ export default function App() {
         map.setView([item.latitude, item.longitude], 16, { animate: true })
       }
     }
-    setSheetOpen(false)
+    setMobileView('map')
   }
 
   /* ── Shared filter props ─────────────────────── */
@@ -568,19 +568,31 @@ export default function App() {
             title="Export filtered list as PDF"
           >
             <Download />
-            <span className="label-text">PDF</span>
+          </button>
+        </div>
+      </header>
+
+      {/* ── Mobile Bottom Toggle Bar ─────────── */}
+      <div className="mobile-bottom-bar">
+        <div className="mobile-view-toggle">
+          <button
+            type="button"
+            className={`mobile-toggle-btn ${mobileView === 'map' ? 'active' : ''}`}
+            onClick={() => setMobileView('map')}
+          >
+            <MapPin />
+            <span className="label-text">Map</span>
           </button>
           <button
             type="button"
-            className="mobile-btn primary"
-            onClick={() => setSheetOpen(true)}
-            disabled={sheetOpen}
+            className={`mobile-toggle-btn ${mobileView === 'list' ? 'active' : ''}`}
+            onClick={() => setMobileView('list')}
           >
             <List />
             <span className="label-text">List</span>
           </button>
         </div>
-      </header>
+      </div>
 
       {/* ── Mobile Filter Bar (always visible, horizontally scrollable) ── */}
       <div className="mobile-filter-bar">
@@ -624,25 +636,16 @@ export default function App() {
         </button>
       </div>
 
-      {/* ── Mobile List Sidebar (slide-in drawer) ─ */}
-      <div className={`mobile-sheet-backdrop ${sheetOpen ? 'visible' : ''}`} onClick={() => setSheetOpen(false)} />
-      <aside className={`mobile-sheet ${sheetOpen ? 'visible' : ''}`} aria-hidden={!sheetOpen}>
-        <div className="mobile-sheet-brand">
-          <div className="mobile-sheet-brand-text">
-            <span className="mobile-sheet-title">Listings</span>
-            <span className="mobile-sheet-sub">{filtered.length} found · PG Directory · SRM KTR</span>
+      {/* ── Mobile List View (full-screen when toggled) ── */}
+      <div className={`mobile-list-view ${mobileView === 'list' ? 'visible' : ''}`}>
+        <div className="mobile-list-view-header">
+          <div className="mobile-list-view-brand-text">
+            <span className="mobile-list-view-title">Listings</span>
+            <span className="mobile-list-view-sub">{filtered.length} found · PGIO · SRM KTR</span>
           </div>
-          <button
-            type="button"
-            className="mobile-sheet-close"
-            onClick={() => setSheetOpen(false)}
-            aria-label="Close list"
-          >
-            <X />
-          </button>
         </div>
 
-        <div className="mobile-sheet-body">
+        <div className="mobile-list-view-body">
           <FilterPanel {...filterProps} />
 
           <div className="results-bar">
@@ -665,10 +668,10 @@ export default function App() {
             {listContent}
           </div>
         </div>
-      </aside>
+      </div>
 
       {/* ── Map ────────────────────────────────── */}
-      <div className="map-container">
+      <div className={`map-container ${mobileView === 'list' ? 'mobile-hidden' : ''}`}>
         <div ref={mapContainerRef} className="map-view" aria-label="Map of PG listings" />
       </div>
     </div>
